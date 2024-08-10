@@ -2,9 +2,9 @@
 - 👀 I’m interested in blogging
 - 🌱 I’m currently learning php
 - 💞️ I’m looking to collaborate on this
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 reach me through https://namazein.com/
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I,m single
 
 <!---
 thenamazein/thenamazein is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
